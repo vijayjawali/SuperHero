@@ -1,0 +1,11 @@
+{
+  "jobname": "A",
+  "inputdatapath": [{
+    "datasetid": "B",
+    "datasetpath": "C"
+  },{
+    "datasetid": "D",
+    "datasetpath": "E"
+  }],
+  "outputdatapath": "G"
+}

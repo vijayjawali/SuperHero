@@ -1,0 +1,11 @@
+{
+  "jobname": "SuperHero",
+  "inputdatapath": [{
+    "datasetid": "MARVEL_NAMES",
+    "datasetpath": "F:/Datasets/Marvel-names.txt"
+  },{
+    "datasetid": "MARVEL_GRAPH",
+    "datasetpath": "F:/Datasets/Marvel-graph.txt"
+  }],
+  "outputdatapath": "F:/Datasets/Output"
+}
